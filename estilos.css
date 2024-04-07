@@ -1,0 +1,27 @@
+body{background-color: rgb(0, 0, 0); color: rgb(255, 255, 255);}
+
+
+a:link {
+    color: rgb(7, 3, 230); 
+}
+
+
+a:visited {
+    color: #0dd148; 
+}
+
+/* Link quando o mouse está sobre ele */
+a:hover {
+    color: #120fce; /* Cor do link quando o mouse está sobre ele (azul neste exemplo) */
+}
+
+
+a:active {
+    color: #c1e0df; /* Cor do link quando está ativo (amarelo neste exemplo) */
+}
+body {
+    font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+}
+h1{color: #08d319;}
+
+
